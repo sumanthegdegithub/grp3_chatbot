@@ -1,0 +1,8 @@
+,order_id,user_id,description,price,status,purchased_at,expected_delivary
+0,ord00001,1,samsung waatch 6,23649.0,delivered,2024-01-12,2024-01-14
+1,ord00002,1,boat headphones,1499.0,delivered,2024-01-28,2024-01-31
+2,ord00003,1,Beardo Hair Cream,799.0,delivered,2024-02-13,2024-02-28
+3,ord00004,1,HP Pavillion,47999.0,delivered,2024-05-21,2024-05-28
+4,ord00005,2,HP Pavillion,46999.0,delivered,2024-02-21,2024-02-28
+5,ord00006,2,Motorola edge 50 mobile,29999.0,in transit,2024-06-19,2024-06-28
+6,ord00007,2,i phone 14 plus,56999.0,cancelled,2024-06-20,2024-06-28
